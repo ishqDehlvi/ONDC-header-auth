@@ -72,17 +72,17 @@ key_pairs = generate_key_pairs()
 # Example JSON payload
 json_payload = {
     "country": "IND",
-    "city": "*",
-    "type": "BPP",
-    "subscriber_id": "snoondcogl.snoo.gl",
-    "subscriber_url": "https://snoondcogl.snoo.gl",
-    "domain": "nic2004:52110",
+    "city": "",
+    "type": "",
+    "subscriber_id": "",
+    "subscriber_url": "",
+    "domain": "",
     "signing_public_key": key_pairs['signing_public_key'],
     "encr_public_key": key_pairs['encryption_public_key'],
-    "created": "2023-06-06T21:05:52.470Z2",
-    "valid_from": "2023-06-06T21:05:52.470Z3",
-    "valid_until": "2050-06-01T11:59:59.470Z7",
-    "updated": "2023-06-06T21:05:52.470Z3"
+    "created": "",
+    "valid_from": "",
+    "valid_until": "",
+    "updated": ""
 }
 
 # Sign the request
