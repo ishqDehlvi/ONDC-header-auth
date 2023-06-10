@@ -1,0 +1,15 @@
+{
+"country": "IND",
+"city": "*", 
+"type": "BPP", 
+"subscriber_id": "snoondcogl.snoo.gl", 
+"subscriber_url": "https://snoondcogl.snoo.gl", 
+"domain": "nic2004:52110", 
+"signing_public_key": "ARVbt6qGfrCWdaoqNQfXodgvCOO7XbZf5/Liq0MJwg8=", 
+"encr_public_key": "drVJSE7Xh/gBhk4dy/EgNe9M9Qz71BaynaiANIhjkRc=", 
+"created": "2023-06-06T21:05:52.470Z2", 
+"valid_from": "2023-06-06T21:05:52.470Z3", 
+"valid_until": "2050-06-01T11:59:59.470Z7",
+"updated": "2023-06-06T21:05:52.470Z3"
+}
+
